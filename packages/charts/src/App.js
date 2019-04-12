@@ -1,11 +1,14 @@
 import React from 'react'
 
-import D3Donut from './components/d3Charts/Donut'
+// chart js
+import ChartJsBar from './components/chartJS/Bar'
+import ChartJsLine from './components/chartJS/Line'
 
 export default () => {
   return (
     <div>
-      <D3Donut />
+      <ChartJsBar />
+      <ChartJsLine />
     </div>
   )
 }
