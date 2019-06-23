@@ -1,3 +1,3 @@
-### Modal Component
+## Modal Component
 
 ![](/public/Modal.gif)
