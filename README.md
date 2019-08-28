@@ -1,7 +1,7 @@
 # `Reality UIX`
 > collection of react component and pages
 
-### COMPONENTS / WEB PAGE
+### COMPONENTS 
 [Double Slider - Sign In/Up Form](https://github.com/dnErf/react-reality-uix/tree/master/packages/fp_sign-in-form)
 
 [Image Gallery 1](https://github.com/dnErf/react-reality-uix/tree/master/packages/image-gallery-1)
@@ -15,3 +15,6 @@
 [Snackbar](https://github.com/dnErf/react-reality-uix/tree/master/packages/snackbar)
 
 [Star Rating 1](https://github.com/dnErf/react-reality-uix/tree/master/packages/star-ratings-1)
+
+### WEB PAGE
+[Netflix Old Landing Page](https://github.com/dnErf/react-reality-uix/tree/master/packages/netflix-clone)
