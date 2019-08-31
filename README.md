@@ -1,5 +1,11 @@
 # `Reality UIX`
-> collection of react component and pages
+> collection of react app, pages and components
+
+### WEB APPS
+[Hack News](https://github.com/dnErf/nxt-hackNews)
+
+### WEB PAGE
+[Netflix Old Landing Page](https://github.com/dnErf/react-reality-uix/tree/master/packages/netflix-clone)
 
 ### COMPONENTS 
 [Double Slider - Sign In/Up Form](https://github.com/dnErf/react-reality-uix/tree/master/packages/fp_sign-in-form)
@@ -16,5 +22,4 @@
 
 [Star Rating 1](https://github.com/dnErf/react-reality-uix/tree/master/packages/star-ratings-1)
 
-### WEB PAGE
-[Netflix Old Landing Page](https://github.com/dnErf/react-reality-uix/tree/master/packages/netflix-clone)
+
